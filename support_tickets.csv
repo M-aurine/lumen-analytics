@@ -1,0 +1,126 @@
+﻿ticket_id,customer_id,opened_date,closed_date,priority,category,resolution_status
+1,1,2026-04-04,2026-04-10,Medium,Feature Request,Escalated
+2,1,2026-02-08,2026-02-09,High,Feature Request,Closed - No Fix
+3,1,2026-04-18,2026-04-29,Medium,Onboarding,Closed - No Fix
+4,1,2025-07-04,,Medium,Billing,Open
+5,2,2024-04-08,,High,Billing,Open
+6,2,2025-02-18,2025-03-03,Urgent,Billing,Closed - No Fix
+7,2,2025-07-29,2025-08-02,Urgent,Bug Report,Closed - No Fix
+8,3,2025-03-21,2025-03-25,Low,Account Access,Closed - No Fix
+9,3,2024-09-10,,Low,Onboarding,Open
+10,3,2025-05-24,,Low,Onboarding,Open
+11,4,2025-02-16,2025-03-02,Medium,Onboarding,Resolved
+12,5,2024-11-12,2024-11-19,Medium,Billing,Escalated
+13,5,2024-12-12,2024-12-17,Medium,Billing,Resolved
+14,5,2024-08-19,2024-08-26,Medium,Account Access,Escalated
+15,5,2024-07-22,2024-07-27,Urgent,Onboarding,Resolved
+16,6,2026-01-14,2026-01-25,Medium,Bug Report,Closed - No Fix
+17,6,2025-10-24,2025-10-27,High,Account Access,Closed - No Fix
+18,8,2025-04-27,2025-05-05,High,Bug Report,Resolved
+19,8,2025-07-19,2025-08-02,Medium,Billing,Closed - No Fix
+20,9,2025-02-21,2025-02-25,Medium,Feature Request,Resolved
+21,9,2026-05-23,2026-06-05,Urgent,Bug Report,Closed - No Fix
+22,9,2025-03-28,2025-04-01,Medium,Onboarding,Escalated
+23,9,2024-12-21,,Low,Feature Request,Open
+24,9,2026-02-05,2026-02-10,Urgent,Billing,Resolved
+25,10,2025-09-26,2025-09-28,Medium,Feature Request,Escalated
+26,10,2025-09-18,2025-09-22,Low,Bug Report,Closed - No Fix
+27,11,2025-06-10,2025-06-12,Medium,Onboarding,Resolved
+28,11,2025-02-18,,Low,Billing,Open
+29,11,2026-02-03,,Medium,Onboarding,Open
+30,12,2026-01-13,2026-01-23,Medium,Account Access,Resolved
+31,12,2025-11-27,2025-12-06,Low,Billing,Closed - No Fix
+32,12,2026-05-30,2026-05-31,Medium,Feature Request,Resolved
+33,13,2025-10-26,2025-10-29,Low,Feature Request,Closed - No Fix
+34,13,2025-05-05,2025-05-16,Medium,Onboarding,Closed - No Fix
+35,13,2026-05-19,2026-05-30,High,Billing,Closed - No Fix
+36,16,2024-05-11,2024-05-19,Medium,Onboarding,Closed - No Fix
+37,17,2026-02-21,2026-03-07,Medium,Billing,Closed - No Fix
+38,19,2025-02-28,2025-03-05,Low,Onboarding,Escalated
+39,19,2025-04-03,2025-04-04,Low,Bug Report,Resolved
+40,20,2025-08-18,,Low,Billing,Open
+41,20,2025-11-27,2025-12-06,Low,Account Access,Escalated
+42,20,2025-11-22,,Medium,Billing,Open
+43,20,2025-12-19,2025-12-30,Low,Feature Request,Resolved
+44,22,2025-02-26,2025-03-03,Medium,Feature Request,Escalated
+45,22,2025-08-19,2025-08-26,Low,Onboarding,Closed - No Fix
+46,22,2026-03-11,2026-03-25,High,Billing,Escalated
+47,22,2024-08-30,2024-09-09,Low,Feature Request,Closed - No Fix
+48,23,2026-04-08,,Urgent,Account Access,Open
+49,24,2025-01-05,2025-01-12,Medium,Account Access,Closed - No Fix
+50,25,2026-03-12,2026-03-16,Medium,Onboarding,Closed - No Fix
+51,25,2026-03-01,2026-03-03,Low,Onboarding,Escalated
+52,25,2026-01-18,,Medium,Feature Request,Open
+53,25,2026-04-26,,Low,Bug Report,Open
+54,25,2025-10-29,2025-11-09,Low,Feature Request,Escalated
+55,28,2025-04-13,2025-04-24,Medium,Feature Request,Escalated
+56,28,2024-11-03,,Urgent,Account Access,Open
+57,28,2024-10-16,2024-10-28,Low,Billing,Escalated
+58,29,2025-02-25,2025-03-04,Low,ONBOARDING,Closed - No Fix
+59,29,2024-12-31,,High,Onboarding,Open
+60,32,2026-05-19,2026-05-21,Urgent,Bug Report,Resolved
+61,32,2026-06-24,,Medium,Bug Report,Open
+62,33,2024-08-01,,Medium,Account Access,Open
+63,34,2026-02-28,2026-03-06,High,Billing,Resolved
+64,34,2025-12-29,2025-12-31,Low,Account Access,Closed - No Fix
+65,34,2025-09-17,2025-09-21,Low,Account Access,Closed - No Fix
+66,34,2025-12-18,2025-12-19,Medium,Account Access,Escalated
+67,34,2026-05-09,,Low,Onboarding,Open
+68,37,2026-02-02,,Low,Account Access,Open
+69,38,2025-09-25,2025-10-07,Low,Onboarding,Escalated
+70,38,2024-04-24,,Low,Account Access,Open
+71,39,2025-10-28,2025-11-05,High,Billing,Closed - No Fix
+72,39,2026-03-25,2026-04-06,Low,Bug Report,Resolved
+73,41,2025-07-03,,Low,Feature Request,Open
+74,41,2026-03-31,,Low,Feature Request,Open
+75,41,2025-07-16,2025-07-19,High,Account Access,Escalated
+76,41,2026-01-13,2026-01-17,Medium,Feature Request,Resolved
+77,42,2026-05-13,2026-05-23,Medium,Billing,Escalated
+78,43,2026-06-05,2026-06-08,Urgent,Bug Report,Closed - No Fix
+79,44,2025-10-26,,Low,Feature Request,Open
+80,46,2026-06-07,2026-06-17,Medium,Onboarding,Resolved
+81,47,2025-11-17,2025-11-27,Low,Account Access,Closed - No Fix
+82,48,2025-05-03,2025-05-13,Low,Account Access,Escalated
+83,48,2026-03-18,2026-03-29,Low,Feature Request,Closed - No Fix
+84,49,2026-01-01,2026-01-13,Medium,Feature Request,Closed - No Fix
+85,50,2026-02-05,2026-02-12,High,Billing,Closed - No Fix
+86,50,2025-03-03,2025-03-12,Low,Billing,Closed - No Fix
+87,50,2025-02-21,2025-02-21,Medium,Onboarding,Closed - No Fix
+88,51,2024-09-02,2024-09-07,Medium,Bug Report,Escalated
+89,51,2024-07-29,2024-08-12,Low,Feature Request,Resolved
+90,51,2024-09-27,2024-10-11,High,Onboarding,Resolved
+91,52,2026-01-16,2026-01-15,Low,Billing,Escalated
+92,52,2026-05-07,2026-05-15,Medium,Account Access,Closed - No Fix
+93,52,2025-10-08,2025-10-21,Low,Account Access,Closed - No Fix
+94,52,2026-06-10,2026-06-14,Low,Onboarding,Closed - No Fix
+95,52,2025-07-11,,Low,Feature Request,Open
+96,54,2026-02-28,2026-03-02,Medium,Bug Report,Closed - No Fix
+97,55,2026-04-03,2026-04-06,Medium,Billing,Closed - No Fix
+98,56,2024-11-20,2024-11-27,Low,Billing,Closed - No Fix
+99,57,2025-11-05,2025-11-13,High,Bug Report,Closed - No Fix
+100,58,2026-04-07,,High,Onboarding,Open
+101,58,2024-08-24,2024-08-26,Low,Onboarding,Closed - No Fix
+102,58,2024-10-12,2024-10-13,Low,Account Access,Closed - No Fix
+103,59,2026-05-06,2026-05-13,Urgent,Bug Report,Resolved
+104,60,2026-03-24,,Low,Feature Request,Open
+105,60,2026-02-26,2026-03-01,Medium,Feature Request,Closed - No Fix
+106,60,2026-06-15,2026-06-16,Medium,Bug Report,Closed - No Fix
+107,61,2025-09-16,2025-09-16,Low,Bug Report,Resolved
+108,61,2025-12-03,,Low,Billing,Open
+109,61,2026-03-20,,Low,Bug Report,Open
+110,63,2025-12-22,2026-01-02,Urgent,Bug Report,Resolved
+111,63,2025-08-01,,Low,Onboarding,Open
+112,64,2026-01-22,,Medium,Account Access,Open
+113,64,2025-12-16,,Urgent,Onboarding,Open
+114,64,2024-10-05,2024-10-13,Urgent,Account Access,Closed - No Fix
+115,64,2024-11-05,,Urgent,Billing,Open
+116,65,2026-01-02,2026-01-15,High,Onboarding,Closed - No Fix
+117,66,2025-07-13,2025-07-15,Medium,Billing,Resolved
+118,66,2026-04-03,2026-04-08,Low,BUG REPORT,Closed - No Fix
+119,70,2026-03-08,2026-03-20,High,Billing,Resolved
+120,70,2025-02-03,2025-02-03,High,Account Access,Escalated
+121,70,2025-08-29,2025-09-09,Low,Onboarding,Resolved
+122,72,2026-06-23,2026-06-24,Medium,Bug Report,Closed - No Fix
+123,72,2026-06-27,,Medium,Account Access,Open
+124,72,2026-06-18,,Low,Bug Report,Open
+125,72,2026-06-23,2026-07-05,Low,Account Access,Escalated

@@ -1,0 +1,15 @@
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.venv/
+venv/

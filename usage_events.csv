@@ -1,0 +1,714 @@
+﻿event_id,customer_id,event_date,event_type,feature_name
+1,1,2026-04-09,Integration Connected,
+2,1,2025-12-09,Report Exported,
+3,1,2025-02-25,Feature Use,Alerts
+4,1,2024-12-18,Dashboard Created,
+5,1,2024-12-19,Integration Connected,
+6,1,2024-10-15,Integration Connected,
+7,2,2024-10-31,Integration Connected,
+8,2,2025-05-20,Dashboard Created,
+9,2,2024-10-09,Integration Connected,
+10,2,2026-03-20,Report Exported,
+11,2,2026-05-17,Feature Use,Reports
+12,2,2024-10-17,Feature Use,Team Sharing
+13,2,2024-07-09,Report Exported,
+14,2,2024-04-07,Dashboard Created,
+15,2,2024-12-23,Feature Use,Data Import
+16,2,2026-02-23,Dashboard Created,
+17,2,2025-11-21,Report Exported,
+18,2,2026-03-03,Login,
+19,2,2026-05-03,Integration Connected,
+20,2,2025-11-13,Integration Connected,
+21,3,2026-03-22,Feature Use,Reports
+22,3,2025-05-20,Login,
+23,3,2025-07-11,Integration Connected,
+24,3,2024-09-26,Report Exported,
+25,3,2024-07-31,Integration Connected,
+26,3,2024-09-19,Login,
+27,3,2025-06-05,Feature Use,Dashboards
+28,3,2025-10-19,Feature Use,API Access
+29,4,2025-12-28,Login,
+30,4,2025-10-30,Integration Connected,
+31,4,2026-02-19,Integration Connected,
+32,4,2024-09-02,Login,
+33,4,2026-02-01,Dashboard Created,
+34,4,2024-11-21,Dashboard Created,
+35,4,2025-03-17,Report Exported,
+36,4,2026-05-06,Report Exported,
+37,5,2024-11-27,Integration Connected,
+38,5,2024-09-11,Feature Use,Team Sharing
+39,5,2024-09-06,Report Exported,
+40,5,2024-12-09,Integration Connected,
+41,5,2024-07-22,Feature Use,Reports
+42,5,2024-07-22,Integration Connected,
+43,5,2024-09-21,Dashboard Created,
+44,5,2024-10-18,Login,
+45,5,2024-09-23,Login,
+46,6,2024-06-07,Dashboard Created,
+47,6,2025-03-18,Integration Connected,
+48,6,2025-10-07,Dashboard Created,
+49,6,2024-10-01,Login,
+50,6,2026-05-16,Report Exported,
+51,6,2025-08-10,Report Exported,
+52,6,2025-12-17,Report Exported,
+53,6,2024-04-26,Dashboard Created,
+54,6,2025-09-24,Feature Use,API Access
+55,6,2025-05-22,Integration Connected,
+56,6,2025-05-23,Feature Use,Alerts
+57,6,2025-11-04,Feature Use,Dashboards
+58,6,2025-03-31,Feature Use,Alerts
+59,7,2025-03-29,Login,
+60,7,2026-02-22,Login,
+61,7,2025-12-05,Feature Use,Data Import
+62,7,2025-04-01,Report Exported,
+63,7,2025-04-06,Integration Connected,
+64,7,2025-07-12,Login,
+65,7,2024-09-28,Login,
+66,7,2025-09-09,Feature Use,API Access
+67,7,2024-09-25,Integration Connected,
+68,7,2025-06-09,Integration Connected,
+69,7,2025-09-10,Feature Use,Team Sharing
+70,7,2025-08-01,Report Exported,
+71,7,2025-07-22,Login,
+72,7,2024-10-27,Feature Use,Data Import
+73,7,2025-09-10,Dashboard Created,
+74,7,2024-10-12,Dashboard Created,
+75,8,2025-01-11,Report Exported,
+76,8,2025-01-16,Feature Use,Alerts
+77,8,2026-01-24,Dashboard Created,
+78,8,2024-12-22,Report Exported,
+79,8,2025-08-21,Dashboard Created,
+80,8,2025-02-07,Login,
+81,8,2026-03-23,Integration Connected,
+82,8,2025-06-13,Integration Connected,
+83,8,2025-11-01,Feature Use,Alerts
+84,8,2025-06-13,Login,
+85,8,2025-04-14,Report Exported,
+86,8,2026-03-14,Dashboard Created,
+87,8,2025-10-27,Feature Use,API Access
+88,8,2025-02-13,Feature Use,Dashboards
+89,8,2025-01-20,Feature Use,Data Import
+90,8,2026-05-21,Integration Connected,
+91,9,2024-12-22,Login,
+92,9,2025-02-20,Dashboard Created,
+93,9,2025-01-07,Feature Use,Team Sharing
+94,9,2026-05-25,Login,
+95,9,2025-10-21,Report Exported,
+96,9,2026-06-20,Dashboard Created,
+97,9,2026-04-04,Feature Use,Dashboards
+98,9,2025-07-31,Feature Use,Alerts
+99,9,2025-12-20,Login,
+100,9,2025-03-04,Integration Connected,
+101,10,2025-05-16,Feature Use,API Access
+102,10,2025-11-01,Integration Connected,
+103,10,2025-10-24,Login,
+104,10,2025-12-29,Login,
+105,10,2025-11-08,Feature Use,API Access
+106,10,2025-07-13,Dashboard Created,
+107,10,2025-11-09,Integration Connected,
+108,10,2025-05-24,Login,
+109,10,2025-11-22,Integration Connected,
+110,10,2025-09-24,Login,
+111,10,2025-07-13,Feature Use,Dashboards
+112,10,2025-09-29,Integration Connected,
+113,10,2025-07-05,Login,
+114,10,2025-07-15,Login,
+115,10,2025-06-23,Login,
+116,10,2025-04-01,Dashboard Created,
+117,10,2025-04-06,Dashboard Created,
+118,10,2025-07-14,Feature Use,Data Import
+119,11,2026-04-02,Report Exported,
+120,11,2025-03-17,Feature Use,API Access
+121,11,2025-02-21,Dashboard Created,
+122,11,2025-05-20,Login,
+123,12,2025-12-24,Integration Connected,
+124,12,2025-12-29,Integration Connected,
+125,12,2026-03-29,Report Exported,
+126,12,2025-12-15,Integration Connected,
+127,12,2026-06-07,Dashboard Created,
+128,12,2026-07-01,Login,
+129,13,2026-05-21,Login,
+130,13,2025-12-21,Login,
+131,13,2025-11-24,Integration Connected,
+132,13,2026-01-23,Integration Connected,
+133,13,2026-01-10,Integration Connected,
+134,14,2026-06-28,Login,
+135,14,2026-06-25,Integration Connected,
+136,14,2026-06-22,Report Exported,
+137,14,2026-06-12,Dashboard Created,
+138,14,2026-06-25,Login,
+139,15,2026-05-07,Feature Use,Dashboards
+140,15,2025-12-15,Integration Connected,
+141,15,2026-05-24,Dashboard Created,
+142,15,2025-12-21,Login,
+143,15,2026-04-28,Feature Use,Data Import
+144,15,2026-02-15,Login,
+145,15,2026-04-03,Login,
+146,15,2026-03-17,Integration Connected,
+147,15,2026-01-27,Login,
+148,15,2025-11-20,Feature Use,Dashboards
+149,15,2025-11-20,Report Exported,
+150,15,2026-01-07,Report Exported,
+151,16,2024-07-04,Feature Use,API Access
+152,16,2024-07-24,Feature Use,Dashboards
+153,16,2024-03-15,Login,
+154,16,2024-02-26,Login,
+155,16,2024-05-23,Integration Connected,
+156,16,2024-08-19,Dashboard Created,
+157,16,2024-08-30,Integration Connected,
+158,16,2024-05-21,Login,
+159,17,2025-12-27,Login,
+160,17,2026-06-23,Login,
+161,17,2026-06-11,Feature Use,API Access
+162,17,2026-01-05,Feature Use,Team Sharing
+163,17,2026-03-07,Dashboard Created,
+164,17,2026-02-25,Feature Use,Alerts
+165,17,2026-03-08,Report Exported,
+166,17,2025-12-29,Report Exported,
+167,17,2026-03-29,Login,
+168,17,2026-02-01,Dashboard Created,
+169,17,2026-02-01,Dashboard Created,
+170,17,2026-05-30,Report Exported,
+171,17,2026-03-02,Feature Use,Dashboards
+172,17,2026-04-06,Integration Connected,
+173,17,2025-12-27,Report Exported,
+174,17,2026-02-19,Integration Connected,
+175,17,2026-03-23,Report Exported,
+176,17,2025-12-22,Feature Use,Alerts
+177,18,2025-07-05,Integration Connected,
+178,18,2025-08-16,Login,
+179,18,2025-06-13,Report Exported,
+180,18,2025-12-29,Report Exported,
+181,18,2025-11-29,Login,
+182,18,2026-02-25,Login,
+183,18,2026-01-15,Feature Use,Reports
+184,18,2026-02-21,Login,
+185,18,2026-04-23,Integration Connected,
+186,18,2025-09-28,Dashboard Created,
+187,18,2026-02-15,Login,
+188,18,2026-04-22,Feature Use,Reports
+189,18,2025-10-20,Login,
+190,18,2026-05-26,Report Exported,
+191,18,2026-01-01,Login,
+192,18,2025-08-24,Integration Connected,
+193,19,2024-11-19,Report Exported,
+194,19,2025-03-14,Feature Use,Alerts
+195,19,2025-01-04,Login,
+196,19,2024-10-11,Feature Use,Data Import
+197,19,2025-01-05,Integration Connected,
+198,19,2024-11-06,Login,
+199,19,2024-09-29,Dashboard Created,
+200,19,2025-01-28,Login,
+201,19,2024-09-27,Login,
+202,19,2024-09-02,Login,
+203,19,2025-02-27,Login,
+204,20,2025-12-13,Login,
+205,20,2026-01-24,Dashboard Created,
+206,20,2026-01-05,Integration Connected,
+207,20,2026-01-16,Report Exported,
+208,20,2026-03-16,Dashboard Created,
+209,20,2025-09-07,Login,
+210,21,2026-01-14,Dashboard Created,
+211,21,2026-03-09,Feature Use,API Access
+212,21,2025-09-29,Dashboard Created,
+213,21,2026-02-03,Report Exported,
+214,21,2025-11-25,Login,
+215,21,2026-02-26,Feature Use,Dashboards
+216,21,2025-11-26,Report Exported,
+217,21,2026-01-30,Report Exported,
+218,22,2024-06-07,Feature Use,Dashboards
+219,22,2024-08-27,Feature Use,Data Import
+220,22,2026-04-05,Integration Connected,
+221,22,2025-04-12,Report Exported,
+222,22,2024-11-28,Login,
+223,22,2024-10-22,Dashboard Created,
+224,22,2024-09-04,Login,
+225,22,2025-06-24,Report Exported,
+226,22,2026-03-26,Login,
+227,22,2026-01-01,Integration Connected,
+228,22,2025-01-11,Login,
+229,22,2024-08-02,Report Exported,
+230,22,2024-06-12,Report Exported,
+231,23,2025-12-11,Report Exported,
+232,23,2026-02-09,Integration Connected,
+233,23,2026-05-11,Feature Use,Reports
+234,23,2026-02-10,Report Exported,
+235,23,2026-02-10,Report Exported,
+236,23,2025-12-20,Integration Connected,
+237,23,2026-04-26,Login,
+238,23,2026-01-10,Feature Use,Alerts
+239,23,2026-02-13,Login,
+240,23,2026-01-04,Feature Use,Reports
+241,23,2026-02-14,Report Exported,
+242,23,2026-01-08,Dashboard Created,
+243,23,2026-01-14,Login,
+244,23,2025-11-20,Login,
+245,23,2026-04-26,Dashboard Created,
+246,23,2026-02-10,Feature Use,Alerts
+247,23,2025-11-15,Dashboard Created,
+248,24,2025-02-10,Login,
+249,24,2024-12-24,Dashboard Created,
+250,24,2025-02-19,Dashboard Created,
+251,24,2024-12-21,Dashboard Created,
+252,24,2024-12-25,Dashboard Created,
+253,24,2025-02-09,Feature Use,Reports
+254,24,2025-02-02,Dashboard Created,
+255,24,2024-12-17,Login,
+256,24,2025-01-03,Login,
+257,24,2025-01-13,Report Exported,
+258,24,2025-02-04,Dashboard Created,
+259,25,2025-10-19,Integration Connected,
+260,25,2025-05-28,Login,
+261,25,2026-01-14,Feature Use,API Access
+262,25,2026-05-15,Feature Use,Team Sharing
+263,25,2026-03-07,Dashboard Created,
+264,25,2025-06-24,Login,
+265,25,2025-12-06,Integration Connected,
+266,26,2025-05-05,Integration Connected,
+267,26,2025-02-23,Integration Connected,
+268,26,2025-07-22,Feature Use,Dashboards
+269,26,2024-11-26,Dashboard Created,
+270,27,2026-03-25,Dashboard Created,
+271,27,2025-04-14,Login,
+272,27,2026-03-09,Report Exported,
+273,27,2025-03-11,Feature Use,Alerts
+274,27,2025-12-05,Login,
+275,27,2025-04-02,Dashboard Created,
+276,27,2026-04-08,Report Exported,
+277,27,2025-06-03,Integration Connected,
+278,28,2025-03-30,Integration Connected,
+279,28,2024-05-25,Dashboard Created,
+280,28,2025-04-29,Login,
+281,28,2025-02-12,Feature Use,API Access
+282,29,2026-04-30,Feature Use,Data Import
+283,29,2025-08-27,Feature Use,API Access
+284,29,2025-07-14,Login,
+285,29,2025-08-30,Feature Use,Data Import
+286,29,2025-04-08,Login,
+287,29,2026-04-23,Dashboard Created,
+288,29,2024-11-10,Dashboard Created,
+289,29,2025-03-29,Login,
+290,29,2025-06-07,Dashboard Created,
+291,29,2025-01-09,Feature Use,Alerts
+292,29,2025-07-06,Integration Connected,
+293,29,2025-03-11,Login,
+294,29,2025-10-04,Login,
+295,29,2025-02-04,Login,
+296,30,2025-03-22,Dashboard Created,
+297,30,2024-12-20,Login,
+298,30,2025-01-21,Report Exported,
+299,30,2025-01-25,Dashboard Created,
+300,30,2025-02-15,Feature Use,Team Sharing
+301,30,2025-03-16,Feature Use,Reports
+302,30,2025-03-07,Dashboard Created,
+303,30,2024-12-16,Report Exported,
+304,30,2025-03-01,Dashboard Created,
+305,31,2026-05-16,Report Exported,
+306,31,2026-04-22,Dashboard Created,
+307,31,2026-05-10,Report Exported,
+308,31,2026-06-09,Login,
+309,31,2026-06-29,Report Exported,
+310,31,2026-05-08,Feature Use,Dashboards
+311,31,2026-05-07,Integration Connected,
+312,31,2026-05-21,Integration Connected,
+313,32,2026-03-19,Integration Connected,
+314,32,2026-04-07,Dashboard Created,
+315,32,2025-12-23,Report Exported,
+316,32,2026-01-18,Integration Connected,
+317,32,2025-12-18,Report Exported,
+318,32,2026-03-04,Feature Use,Reports
+319,32,2026-03-31,Feature Use,Team Sharing
+320,32,2026-02-08,Login,
+321,32,2025-12-30,Feature Use,API Access
+322,32,2025-12-30,Login,
+323,32,2026-04-16,Dashboard Created,
+324,33,2025-05-24,Report Exported,
+325,33,2024-11-15,Feature Use,Data Import
+326,33,2025-01-01,Dashboard Created,
+327,33,2024-07-07,Login,
+328,33,2025-06-21,Login,
+329,33,2024-04-18,Report Exported,
+330,33,2024-06-12,Report Exported,
+331,33,2024-09-27,Feature Use,API Access
+332,33,2024-06-15,Integration Connected,
+333,33,2025-04-21,Report Exported,
+334,33,2025-09-08,Integration Connected,
+335,33,2024-07-29,Dashboard Created,
+336,33,2024-12-06,Dashboard Created,
+337,33,2025-09-26,Integration Connected,
+338,33,2025-04-14,Integration Connected,
+339,33,2024-10-15,Dashboard Created,
+340,34,2025-10-09,Integration Connected,
+341,34,2026-02-18,Feature Use,Data Import
+342,34,2025-10-11,Feature Use,API Access
+343,34,2026-02-02,Integration Connected,
+344,34,2025-10-13,Login,
+345,35,2026-04-29,Login,
+346,35,2025-12-30,Dashboard Created,
+347,35,2024-11-03,Report Exported,
+348,35,2026-06-27,Login,
+349,35,2025-06-29,Dashboard Created,
+350,35,2025-03-14,Feature Use,API Access
+351,35,2025-02-26,Feature Use,API Access
+352,35,2024-06-30,Feature Use,Team Sharing
+353,35,2025-05-23,Dashboard Created,
+354,35,2024-08-15,Feature Use,Alerts
+355,35,2026-04-22,Report Exported,
+356,35,2025-04-24,Dashboard Created,
+357,35,2026-05-25,Report Exported,
+358,35,2024-08-08,Feature Use,Data Import
+359,35,2024-11-06,Report Exported,
+360,36,2024-02-28,Integration Connected,
+361,36,2024-06-10,Dashboard Created,
+362,36,2025-10-14,Dashboard Created,
+363,36,2025-11-14,Login,
+364,36,2025-05-17,Integration Connected,
+365,37,2025-12-30,Integration Connected,
+366,37,2026-04-16,Report Exported,
+367,37,2026-01-05,Dashboard Created,
+368,37,2025-12-21,Feature Use,API Access
+369,37,2025-07-22,Feature Use,API Access
+370,37,2026-01-18,Login,
+371,37,2026-05-31,Report Exported,
+372,37,2026-04-20,Feature Use,Data Import
+373,37,2025-11-17,Integration Connected,
+374,37,2025-10-21,Report Exported,
+375,37,2025-12-14,Report Exported,
+376,38,2024-06-16,Integration Connected,
+377,38,2025-07-20,Integration Connected,
+378,38,2024-05-27,Feature Use,Dashboards
+379,38,2025-12-11,Integration Connected,
+380,38,2025-06-07,Integration Connected,
+381,38,2025-01-14,Login,
+382,39,2026-04-14,Login,
+383,39,2026-05-04,Feature Use,Dashboards
+384,39,2026-02-21,Feature Use,Dashboards
+385,39,2025-05-29,Feature Use,Reports
+386,39,2025-07-15,Feature Use,Dashboards
+387,40,2025-02-22,Login,
+388,40,2025-01-27,Feature Use,Reports
+389,40,2026-02-22,Report Exported,
+390,40,2025-01-12,Integration Connected,
+391,41,2025-09-10,Report Exported,
+392,41,2025-10-30,Dashboard Created,
+393,41,2026-06-21,Report Exported,
+394,41,2025-09-17,Login,
+395,41,2025-05-12,Report Exported,
+396,41,2025-06-22,Report Exported,
+397,41,2025-05-16,Login,
+398,41,2026-02-13,Login,
+399,41,2026-03-22,Report Exported,
+400,42,2025-10-17,Report Exported,
+401,42,2026-04-12,Dashboard Created,
+402,42,2025-04-08,Feature Use,Team Sharing
+403,42,2026-06-11,Login,
+404,42,2025-04-21,Dashboard Created,
+405,42,2025-12-14,Report Exported,
+406,43,2026-05-14,Feature Use,Alerts
+407,43,2026-05-17,Dashboard Created,
+408,43,2026-05-19,Login,
+409,43,2026-06-19,Feature Use,Reports
+410,43,2026-06-27,Dashboard Created,
+411,43,2026-06-11,Feature Use,Team Sharing
+412,43,2026-05-18,Dashboard Created,
+413,43,2026-06-18,Dashboard Created,
+414,43,2026-05-21,Login,
+415,43,2026-05-25,Integration Connected,
+416,43,2026-05-26,Login,
+417,43,2026-06-22,Dashboard Created,
+418,43,2026-05-28,Report Exported,
+419,43,2026-06-14,Dashboard Created,
+420,43,2026-06-15,Integration Connected,
+421,44,2026-04-07,Login,
+422,44,2025-04-17,Feature Use,Data Import
+423,44,2025-04-14,Feature Use,Team Sharing
+424,44,2025-08-28,Feature Use,Data Import
+425,44,2026-04-04,Dashboard Created,
+426,44,2026-02-10,Feature Use,Reports
+427,44,2025-07-15,Report Exported,
+428,44,2026-03-07,Report Exported,
+429,44,2025-06-08,Feature Use,Dashboards
+430,45,2025-12-07,Report Exported,
+431,45,2026-06-11,Report Exported,
+432,45,2025-11-03,Report Exported,
+433,45,2026-01-06,Report Exported,
+434,45,2025-05-12,Integration Connected,
+435,45,2025-09-22,Login,
+436,45,2025-09-11,Login,
+437,46,2026-06-19,Feature Use,Reports
+438,46,2026-05-29,Feature Use,API Access
+439,46,2026-05-19,Feature Use,Alerts
+440,46,2026-05-25,Integration Connected,
+441,46,2026-06-20,Report Exported,
+442,46,2026-06-30,Dashboard Created,
+443,46,2026-06-20,Report Exported,
+444,46,2026-05-22,Login,
+445,46,2026-06-29,Login,
+446,47,2026-04-30,Dashboard Created,
+447,47,2026-06-18,Login,
+448,47,2026-02-20,Integration Connected,
+449,47,2026-02-04,Dashboard Created,
+450,47,2026-03-25,Dashboard Created,
+451,47,2026-05-16,Report Exported,
+452,47,2026-05-30,Report Exported,
+453,47,2025-11-09,Login,
+454,47,2026-06-04,Login,
+455,47,2026-03-05,Feature Use,Dashboards
+456,47,2025-12-19,Login,
+457,47,2026-06-09,Integration Connected,
+458,47,2025-10-31,Report Exported,
+459,48,2025-01-18,Report Exported,
+460,48,2026-01-30,Integration Connected,
+461,48,2025-02-04,Feature Use,API Access
+462,48,2025-02-13,Login,
+463,48,2024-12-11,Report Exported,
+464,48,2025-03-27,Integration Connected,
+465,48,2025-02-26,Login,
+466,48,2025-09-28,Feature Use,Team Sharing
+467,48,2025-12-30,Feature Use,Reports
+468,48,2025-05-05,Dashboard Created,
+469,48,2026-01-19,Report Exported,
+470,48,2025-11-15,Login,
+471,48,2025-07-15,Dashboard Created,
+472,48,2026-05-28,Login,
+473,49,2025-07-02,Dashboard Created,
+474,49,2025-10-20,Feature Use,Reports
+475,49,2025-12-26,Report Exported,
+476,49,2026-03-15,Dashboard Created,
+477,49,2025-09-09,Feature Use,Data Import
+478,50,2025-06-10,Feature Use,API Access
+479,50,2025-05-18,Integration Connected,
+480,50,2026-01-10,Feature Use,Dashboards
+481,50,2025-10-17,Integration Connected,
+482,50,2026-05-24,Feature Use,Team Sharing
+483,50,2025-12-23,Report Exported,
+484,50,2025-07-24,Report Exported,
+485,50,2025-08-09,Dashboard Created,
+486,50,2025-03-27,Login,
+487,50,2025-09-23,Integration Connected,
+488,50,2026-01-16,Login,
+489,50,2025-10-16,Integration Connected,
+490,50,2025-03-10,Login,
+491,50,2025-12-29,Feature Use,Alerts
+492,50,2025-10-28,Report Exported,
+493,50,2025-12-03,Report Exported,
+494,51,2024-10-11,Dashboard Created,
+495,51,2024-10-17,Report Exported,
+496,51,2024-08-10,Feature Use,Dashboards
+497,51,2024-10-26,Integration Connected,
+498,51,2024-09-13,Login,
+499,51,2024-08-25,Feature Use,Alerts
+500,51,2024-09-15,Integration Connected,
+501,51,2024-10-04,Dashboard Created,
+502,51,2024-11-01,Report Exported,
+503,51,2024-08-16,Feature Use,Team Sharing
+504,51,2024-10-07,Login,
+505,51,2024-10-09,Feature Use,Alerts
+506,51,2024-08-17,Integration Connected,
+507,52,2024-08-17,Integration Connected,
+508,52,2025-10-08,Report Exported,
+509,52,2025-10-23,Dashboard Created,
+510,52,2025-02-03,Report Exported,
+511,52,2025-07-03,Feature Use,Dashboards
+512,52,2024-10-09,Login,
+513,52,2025-05-29,Login,
+514,52,2024-07-25,Feature Use,Alerts
+515,52,2024-09-09,Integration Connected,
+516,52,2024-09-06,Dashboard Created,
+517,52,2024-08-21,Feature Use,API Access
+518,52,2026-04-15,Dashboard Created,
+519,52,2025-05-13,Dashboard Created,
+520,52,2025-07-21,Report Exported,
+521,53,2026-05-31,Integration Connected,
+522,53,2026-05-11,Report Exported,
+523,53,2026-04-25,Report Exported,
+524,53,2026-06-14,Report Exported,
+525,53,2026-05-24,Login,
+526,53,2026-05-27,Integration Connected,
+527,53,2026-06-26,Integration Connected,
+528,53,2026-03-20,Dashboard Created,
+529,53,2026-05-08,Dashboard Created,
+530,53,2026-03-13,Feature Use,Reports
+531,53,2026-04-07,Report Exported,
+532,53,2026-05-20,Report Exported,
+533,53,2026-06-04,Login,
+534,53,2026-06-03,Integration Connected,
+535,54,2026-03-29,Integration Connected,
+536,54,2026-05-23,Dashboard Created,
+537,54,2025-08-17,Feature Use,API Access
+538,54,2025-09-21,Feature Use,Team Sharing
+539,55,2026-04-21,Integration Connected,
+540,55,2026-04-04,Report Exported,
+541,55,2025-04-17,Feature Use,Data Import
+542,55,2025-12-31,Login,
+543,55,2025-06-17,Report Exported,
+544,55,2026-05-23,Dashboard Created,
+545,55,2025-05-16,Dashboard Created,
+546,55,2026-01-17,Login,
+547,56,2025-02-03,Feature Use,Alerts
+548,56,2025-01-05,Report Exported,
+549,56,2025-02-28,Feature Use,API Access
+550,56,2025-03-08,Integration Connected,
+551,56,2024-10-22,Feature Use,Team Sharing
+552,56,2025-01-24,Integration Connected,
+553,56,2024-12-01,Feature Use,Dashboards
+554,56,2025-03-10,Login,
+555,56,2025-03-14,Report Exported,
+556,56,2024-11-02,Login,
+557,56,2024-12-12,Integration Connected,
+558,56,2024-10-25,Integration Connected,
+559,56,2024-12-14,Integration Connected,
+560,56,2025-02-15,Feature Use,Team Sharing
+561,56,2024-12-13,Feature Use,Reports
+562,56,2025-02-09,Login,
+563,56,2025-02-05,Feature Use,Team Sharing
+564,56,2024-12-25,Integration Connected,
+565,57,2025-11-29,Dashboard Created,
+566,57,2025-11-25,Integration Connected,
+567,57,2026-01-28,Login,
+568,57,2025-10-24,Login,
+569,57,2025-12-27,Feature Use,Data Import
+570,57,2025-11-30,Integration Connected,
+571,57,2025-12-05,Feature Use,Team Sharing
+572,57,2025-11-14,Feature Use,Team Sharing
+573,58,2024-12-05,Integration Connected,
+574,58,2026-05-21,Login,
+575,58,2026-06-19,Dashboard Created,
+576,58,2026-05-12,Integration Connected,
+577,58,2026-05-10,Feature Use,Alerts
+578,58,2025-07-21,Integration Connected,
+579,59,2026-05-03,Login,
+580,59,2026-04-21,Login,
+581,59,2026-01-15,Integration Connected,
+582,59,2026-06-20,Dashboard Created,
+583,60,2025-10-08,Dashboard Created,
+584,60,2025-07-24,Feature Use,Team Sharing
+585,60,2025-10-17,Dashboard Created,
+586,60,2026-05-25,Feature Use,Reports
+587,60,2025-08-22,Feature Use,API Access
+588,60,2025-10-27,Integration Connected,
+589,61,2025-12-29,Report Exported,
+590,61,2025-10-17,Feature Use,API Access
+591,61,2025-09-08,Feature Use,Reports
+592,61,2026-05-24,Report Exported,
+593,61,2025-09-28,Integration Connected,
+594,61,2025-12-25,Feature Use,API Access
+595,61,2026-03-29,Dashboard Created,
+596,61,2026-05-26,Dashboard Created,
+597,61,2026-03-26,Report Exported,
+598,61,2026-03-25,Integration Connected,
+599,62,2024-10-18,Integration Connected,
+600,62,2024-10-28,Feature Use,Team Sharing
+601,62,2024-08-02,Feature Use,Dashboards
+602,62,2024-09-18,Dashboard Created,
+603,62,2024-07-07,Dashboard Created,
+604,62,2024-07-15,Report Exported,
+605,62,2024-12-24,Dashboard Created,
+606,63,2025-09-10,Dashboard Created,
+607,63,2025-02-17,Dashboard Created,
+608,63,2026-04-24,Integration Connected,
+609,63,2024-09-21,Login,
+610,63,2026-01-16,Report Exported,
+611,63,2026-02-18,Dashboard Created,
+612,63,2025-12-01,Integration Connected,
+613,63,2025-07-17,Feature Use,Team Sharing
+614,63,2024-09-19,Feature Use,Data Import
+615,64,2025-09-28,Report Exported,
+616,64,2026-04-12,Integration Connected,
+617,64,2025-03-28,Report Exported,
+618,64,2025-01-23,Integration Connected,
+619,64,2026-03-04,Dashboard Created,
+620,64,2026-06-13,Feature Use,Alerts
+621,64,2024-12-12,Feature Use,Dashboards
+622,64,2026-05-09,Report Exported,
+623,64,2025-12-20,Dashboard Created,
+624,65,2026-03-03,Report Exported,
+625,65,2025-10-24,Report Exported,
+626,65,2026-03-29,Dashboard Created,
+627,65,2025-12-12,Report Exported,
+628,65,2026-02-21,Dashboard Created,
+629,65,2026-02-24,Login,
+630,65,2026-04-21,Dashboard Created,
+631,65,2025-11-17,Report Exported,
+632,65,2025-10-20,Report Exported,
+633,65,2026-04-02,Report Exported,
+634,65,2026-06-24,Feature Use,Data Import
+635,66,2025-04-11,Login,
+636,66,2025-07-07,Feature Use,Dashboards
+637,66,2026-04-12,Feature Use,Reports
+638,66,2025-09-06,Feature Use,Reports
+639,66,2025-04-29,Dashboard Created,
+640,66,2025-08-13,Login,
+641,66,2026-04-10,Login,
+642,66,2025-06-12,Integration Connected,
+643,66,2026-01-07,Login,
+644,66,2026-04-30,Feature Use,API Access
+645,67,2026-03-04,Login,
+646,67,2026-05-14,Dashboard Created,
+647,67,2026-05-28,Dashboard Created,
+648,67,2026-04-03,Login,
+649,67,2026-04-29,Feature Use,Team Sharing
+650,67,2026-02-24,Report Exported,
+651,67,2026-02-12,Login,
+652,67,2026-02-15,Feature Use,Dashboards
+653,67,2026-02-12,Login,
+654,67,2026-03-21,Feature Use,Dashboards
+655,67,2026-04-08,Feature Use,Dashboards
+656,67,2026-03-03,Feature Use,Team Sharing
+657,67,2026-03-25,Feature Use,Alerts
+658,67,2026-02-23,Dashboard Created,
+659,67,2026-03-21,Dashboard Created,
+660,67,2026-04-01,Report Exported,
+661,67,2026-04-06,Feature Use,API Access
+662,68,2025-05-11,Feature Use,Reports
+663,68,2024-09-01,Feature Use,Alerts
+664,68,2025-04-17,Login,
+665,68,2025-01-15,Integration Connected,
+666,69,2026-01-21,Login,
+667,69,2026-05-05,Dashboard Created,
+668,69,2025-09-06,Integration Connected,
+669,69,2024-03-09,Dashboard Created,
+670,69,2025-05-18,Login,
+671,69,2025-10-31,Report Exported,
+672,69,2025-12-31,Dashboard Created,
+673,69,2025-07-31,Feature Use,Dashboards
+674,69,2026-05-09,Integration Connected,
+675,69,2025-08-05,Feature Use,API Access
+676,69,2024-08-21,Dashboard Created,
+677,69,2024-08-02,Login,
+678,69,2025-07-20,Integration Connected,
+679,70,2026-06-29,Report Exported,
+680,70,2025-06-01,Feature Use,Team Sharing
+681,70,2025-04-27,Dashboard Created,
+682,70,2025-03-10,Dashboard Created,
+683,72,2026-06-26,Feature Use,Alerts
+684,72,2026-07-01,Dashboard Created,
+685,72,2026-06-20,Report Exported,
+686,72,2026-07-01,Feature Use,Data Import
+687,72,2026-06-29,Integration Connected,
+688,72,2026-06-30,Login,
+689,72,2026-06-26,Report Exported,
+690,72,2026-06-22,Integration Connected,
+691,72,2026-06-21,Integration Connected,
+692,72,2026-06-22,Feature Use,Team Sharing
+693,72,2026-06-30,Integration Connected,
+694,72,2026-06-24,Report Exported,
+695,72,2026-06-30,Login,
+696,72,2026-06-24,Login,
+697,72,2026-06-19,Dashboard Created,
+698,72,2026-06-29,Login,
+699,72,2026-06-26,Dashboard Created,
+700,72,2026-07-01,Report Exported,
+701,73,2026-06-25,Dashboard Created,
+702,73,2025-01-26,Login,
+703,73,2025-06-07,Login,
+704,73,2026-02-11,Report Exported,
+705,73,2025-05-18,Integration Connected,
+706,73,2026-04-12,Dashboard Created,
+707,73,2025-10-11,Login,
+708,73,2026-04-26,Report Exported,
+709,73,2025-05-01,Login,
+710,73,2026-06-11,Report Exported,
+711,73,2025-08-29,Login,
+712,73,2025-10-13,Report Exported,
+713,73,2026-02-05,Feature Use,Team Sharing
