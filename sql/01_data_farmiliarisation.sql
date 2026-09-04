@@ -17,7 +17,7 @@ HAVING COUNT(*) > 1;
 -- payments Table
 SELECT payment_id, COUNT(*)
 FROM payments
-GROUP BY payments_id
+GROUP BY payment_id
 HAVING COUNT(*) > 1;
 
 -- events Table
@@ -76,4 +76,5 @@ FROM usage_events AS u
 LEFT JOIN customers AS c
 ON u.customer_id = c.customer_id
 WHERE c.customer_id IS NULL;
+
 
