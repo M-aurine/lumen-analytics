@@ -1,74 +1,74 @@
 ﻿customer_id,company_name,signup_date,acquisition_channel,region,company_size_band,plan_type_at_signup,churn_date
-1,Foster Inc,2024-10-12,Paid Ads,Asia Pacific,1-10,Starter,
-2,"Davis, Aguilar and Browning",2024-03-04,Organic Search,Latin America,11-50,Starter,
-3,Hamilton Inc,2024-07-08,Organic Search,Latin America,201-500,Starter,
-4,"Coleman, Serrano and Martinez",2024-07-31,Partner,Latin America,1-10,Growth,
-5,"Aguilar, Brown and Richards",2024-07-15,Organic Search,Latin America,11-50,Starter,2024-12-12
-6,Williams and Sons,2024-02-13,Content Marketing,Europe,1-10,Growth,
-7,Fernandez PLC,2024-09-12,Content Marketing,North America,500+,Starter,2026-04-09
-8,"White, Perkins and Fowler",2024-09-29,Referral,Asia Pacific,500+,Scale,
-9,"Joseph, Elliott and Montgomery",2024-11-24,Paid Ads,Europe,1-10,Growth,
-10,"Patterson, Edwards and Richards",2025-03-13,Partner,Asia Pacific,51-200,Growth,2025-12-30
-11,Wright-White,2025-02-03,Referral,Europe,201-500,Starter,
-12,Andrews PLC,2025-11-18,Content Marketing,Latin America,51-200,Starter,
-13,Blair-Roberts,2025-03-12,Outbound Sales,North America,1-10,Scale,
-14,Hunt and Sons,2026-05-14,Organic Search,Africa,500+,Scale,
-15,Mahoney Group,2025-10-29,Outbound Sales,Africa,1-10,Scale,
-16,"Jones, Grant and Mccormick",2024-02-04,Outbound Sales,North America,11-50,Growth,2024-11-13
-17,Dominguez-Wheeler,2025-12-22,Outbound Sales,North America,11-50,Starter,
-18,Jones-Davis,2025-05-26,Outbound Sales,Latin America,51-200,Growth,
-19,"Beck, Brown and Miles",2024-08-26,Outbound Sales,Europe,11-50,Starter,2025-05-21
-20,"Short, Mitchell and Cruz",2025-07-24,,Latin America,11-50,Starter,2026-03-25
-21,Shepard LLC,2025-08-12,Content Marketing,Latin America,51-200,Scale,
-22,Snyder and Sons,2024-05-28,Content Marketing,North America,201-500,Scale,
-23,Rodgers Group,2025-11-08,Content Marketing,Asia Pacific,201-500,Starter,2026-05-19
-24,Miller-Cole,2024-12-10,Paid Ads,North America,11-50,Starter,2025-03-03
-25,Fuentes PLC,2025-04-29,Content Marketing,Europe,500+,Starter,
-26,Downs-Vega,2024-09-02,,Europe,500+,Starter,
-27,Hernandez and Sons,2024-12-01,Content Marketing,Africa,201-500,Starter,
-28,"Hall, Washington and Lawrence",2024-05-13,Outbound Sales,Asia Pacific,201-500,Starter,2025-05-28
-29,Thomas PLC,2024-08-19,Outbound Sales,Europe,500+,Starter,
-30,"Flores, Martinez and Villarreal",2024-11-21,Paid Ads,Latin America,1-10,Growth,2025-03-24
-31,"Lowe, Brown and Lam",2026-04-18,Referral,Latin America,51-200,Scale,
-32,"Yates, Long and Ross",2025-11-18,Content Marketing,Latin America,51-200,Growth,
-33,"Morales, Lee and Rollins",2024-04-01,Paid Ads,Europe,201-500,Growth,2025-10-13
-34,Peterson Inc,2025-01-23,Partner,North America,1-10,Growth,
-35,"Hernandez, Garcia and Cox",2024-03-31,Content Marketing,Africa,201-500,Growth,
-36,Mendez and Sons,2024-01-23,Referral,North America,11-50,Starter,
-37,Guzman-Wells,2025-07-13,Outbound Sales,Latin America,500+,Growth,
-38,Kaiser-Owens,2024-04-11,Partner,North America,1-10,Scale,
-39,Thomas Ltd,2025-03-02,Outbound Sales,Europe,201-500,Growth,2026-05-16
-40,Mendoza-Holt,2024-10-29,Partner,Asia Pacific,201-500,Starter,
-41,Tapia PLC,2025-03-31,Paid Ads,Europe,1-10,Starter,
-42,"Daniels, Johnson and Rice",2024-11-15,Paid Ads,Latin America,500+,Scale,
-43,Horton LLC,2026-05-13,Content Marketing,Latin America,11-50,Starter,
-44,Kelly and Sons,2025-04-02,Organic Search,Latin America,11-50,Starter,
-45,"Rivera, Walker and Cain",2025-04-14,Paid Ads,North America,51-200,Starter,
-46,Shaffer Group,2026-05-18,Referral,Africa,500+,Starter,2026-07-01
-47,Gonzalez Group,2025-10-14,Outbound Sales,Latin America,500+,Starter,
-48,Mayo LLC,2024-11-09,Content Marketing,Europe,500+,Growth,
-49,Schwartz LLC,2025-02-20,Content Marketing,North America,11-50,Starter,
-50,"Travis, Friedman and Diaz",2025-01-29,Content Marketing,North America,51-200,Growth,
-51,Harrison LLC,2024-07-13,Organic Search,Latin America,1-10,Starter,2024-11-20
-52,"Galloway, Bishop and Smith",2024-06-29,Content Marketing,North America,1-10,Starter,
-53,Marsh-Miller,2026-03-12,Content Marketing,Europe,51-200,Starter,
-54,Casey-Christensen,2025-08-05,Paid Ads,Latin America,51-200,Scale,
-55,Hamilton Ltd,2025-02-25,Outbound Sales,Europe,201-500,Starter,
-56,"Foster, Morales and Arroyo",2024-10-20,Paid Ads,Asia Pacific,1-10,Starter,2025-03-24
-57,Kaiser Inc,2025-10-01,Paid Ads,Africa,11-50,Starter,2026-02-27
-58,Drake-Thomas,2024-05-13,Organic Search,Asia Pacific,201-500,Starter,
-59,Sandoval-Bell,2025-12-29,Partner,Asia Pacific,500+,Starter,
-60,Smith Ltd,2025-04-28,Organic Search,Africa,1-10,Starter,
-61,"Brady, Taylor and Downs",2025-07-27,Outbound Sales,Africa,500+,Growth,
-62,Johnson and Sons,2024-06-20,Paid Ads,North America,1-10,Starter,2025-01-21
-63,Gallagher LLC,2024-09-15,Paid Ads,Asia Pacific,51-200,Starter,
-64,Flowers-Brown,2024-08-16,Outbound Sales,Africa,1-10,Starter,
-65,Bates-Briggs,2025-10-14,Organic Search,Africa,1-10,Growth,
-66,"Anderson, Hernandez and Dixon",2025-03-31,Paid Ads,North America,51-200,Scale,
-67,Franklin and Sons,2026-02-08,Content Marketing,Asia Pacific,51-200,Growth,2026-06-08
-68,Harvey-Martinez,2024-06-01,Organic Search,Europe,51-200,Starter,2025-05-16
-69,"Holmes, Peters and Mueller",2024-02-24,Content Marketing,Europe,51-200,Starter,
-70,"Brown, Lee and Williams",2024-04-03,Organic Search,Africa,1-10,Starter,
-71,Fuentes PLC,2026-08-05,Content Marketing,Europe,500+,Starter,
-72,"Brady, Taylor and Downs",2026-06-17,Outbound Sales,Africa,500+,Growth,
-73,Drake-Thomas,2025-01-22,Organic Search,Asia Pacific,201-500,Starter,
+1,Foster Inc,12/10/2024,Paid Ads,Asia Pacific,01-Oct,Starter,
+2,"Davis, Aguilar and Browning",04/03/2024,Organic Search,Latin America,Nov-50,Starter,
+3,Hamilton Inc,08/07/2024,Organic Search,Latin America,201-500,Starter,
+4,"Coleman, Serrano and Martinez",31/07/2024,Partner,Latin America,01-Oct,Growth,
+5,"Aguilar, Brown and Richards",15/07/2024,Organic Search,Latin America,Nov-50,Starter,12/12/2024
+6,Williams and Sons,13/02/2024,Content Marketing,Europe,01-Oct,Growth,
+7,Fernandez PLC,12/09/2024,Content Marketing,North America,500+,Starter,09/04/2026
+8,"White, Perkins and Fowler",29/09/2024,Referral,Asia Pacific,500+,Scale,
+9,"Joseph, Elliott and Montgomery",24/11/2024,Paid Ads,Europe,01-Oct,Growth,
+10,"Patterson, Edwards and Richards",13/03/2025,Partner,Asia Pacific,51-200,Growth,30/12/2025
+11,Wright-White,03/02/2025,Referral,Europe,201-500,Starter,
+12,Andrews PLC,18/11/2025,Content Marketing,Latin America,51-200,Starter,
+13,Blair-Roberts,12/03/2025,Outbound Sales,North America,01-Oct,Scale,
+14,Hunt and Sons,14/05/2026,Organic Search,Africa,500+,Scale,
+15,Mahoney Group,29/10/2025,Outbound Sales,Africa,01-Oct,Scale,
+16,"Jones, Grant and Mccormick",04/02/2024,Outbound Sales,North America,Nov-50,Growth,13/11/2024
+17,Dominguez-Wheeler,22/12/2025,Outbound Sales,North America,Nov-50,Starter,
+18,Jones-Davis,26/05/2025,Outbound Sales,Latin America,51-200,Growth,
+19,"Beck, Brown and Miles",26/08/2024,Outbound Sales,Europe,Nov-50,Starter,21/05/2025
+20,"Short, Mitchell and Cruz",24/07/2025,,Latin America,Nov-50,Starter,25/03/2026
+21,Shepard LLC,12/08/2025,Content Marketing,Latin America,51-200,Scale,
+22,Snyder and Sons,28/05/2024,Content Marketing,North America,201-500,Scale,
+23,Rodgers Group,08/11/2025,Content Marketing,Asia Pacific,201-500,Starter,19/05/2026
+24,Miller-Cole,10/12/2024,Paid Ads,North America,Nov-50,Starter,03/03/2025
+25,Fuentes PLC,29/04/2025,Content Marketing,Europe,500+,Starter,
+26,Downs-Vega,02/09/2024,,Europe,500+,Starter,
+27,Hernandez and Sons,01/12/2024,Content Marketing,Africa,201-500,Starter,
+28,"Hall, Washington and Lawrence",13/05/2024,Outbound Sales,Asia Pacific,201-500,Starter,28/05/2025
+29,Thomas PLC,19/08/2024,Outbound Sales,Europe,500+,Starter,
+30,"Flores, Martinez and Villarreal",21/11/2024,Paid Ads,Latin America,01-Oct,Growth,24/03/2025
+31,"Lowe, Brown and Lam",18/04/2026,Referral,Latin America,51-200,Scale,
+32,"Yates, Long and Ross",18/11/2025,Content Marketing,Latin America,51-200,Growth,
+33,"Morales, Lee and Rollins",01/04/2024,Paid Ads,Europe,201-500,Growth,13/10/2025
+34,Peterson Inc,23/01/2025,Partner,North America,01-Oct,Growth,
+35,"Hernandez, Garcia and Cox",31/03/2024,Content Marketing,Africa,201-500,Growth,
+36,Mendez and Sons,23/01/2024,Referral,North America,Nov-50,Starter,
+37,Guzman-Wells,13/07/2025,Outbound Sales,Latin America,500+,Growth,
+38,Kaiser-Owens,11/04/2024,Partner,North America,01-Oct,Scale,
+39,Thomas Ltd,02/03/2025,Outbound Sales,Europe,201-500,Growth,16/05/2026
+40,Mendoza-Holt,29/10/2024,Partner,Asia Pacific,201-500,Starter,
+41,Tapia PLC,31/03/2025,Paid Ads,Europe,01-Oct,Starter,
+42,"Daniels, Johnson and Rice",15/11/2024,Paid Ads,Latin America,500+,Scale,
+43,Horton LLC,13/05/2026,Content Marketing,Latin America,Nov-50,Starter,
+44,Kelly and Sons,02/04/2025,Organic Search,Latin America,Nov-50,Starter,
+45,"Rivera, Walker and Cain",14/04/2025,Paid Ads,North America,51-200,Starter,
+46,Shaffer Group,18/05/2026,Referral,Africa,500+,Starter,01/07/2026
+47,Gonzalez Group,14/10/2025,Outbound Sales,Latin America,500+,Starter,
+48,Mayo LLC,09/11/2024,Content Marketing,Europe,500+,Growth,
+49,Schwartz LLC,20/02/2025,Content Marketing,North America,Nov-50,Starter,
+50,"Travis, Friedman and Diaz",29/01/2025,Content Marketing,North America,51-200,Growth,
+51,Harrison LLC,13/07/2024,Organic Search,Latin America,01-Oct,Starter,20/11/2024
+52,"Galloway, Bishop and Smith",29/06/2024,Content Marketing,North America,01-Oct,Starter,
+53,Marsh-Miller,12/03/2026,Content Marketing,Europe,51-200,Starter,
+54,Casey-Christensen,05/08/2025,Paid Ads,Latin America,51-200,Scale,
+55,Hamilton Ltd,25/02/2025,Outbound Sales,Europe,201-500,Starter,
+56,"Foster, Morales and Arroyo",20/10/2024,Paid Ads,Asia Pacific,01-Oct,Starter,24/03/2025
+57,Kaiser Inc,01/10/2025,Paid Ads,Africa,Nov-50,Starter,27/02/2026
+58,Drake-Thomas,13/05/2024,Organic Search,Asia Pacific,201-500,Starter,
+59,Sandoval-Bell,29/12/2025,Partner,Asia Pacific,500+,Starter,
+60,Smith Ltd,28/04/2025,Organic Search,Africa,01-Oct,Starter,
+61,"Brady, Taylor and Downs",27/07/2025,Outbound Sales,Africa,500+,Growth,
+62,Johnson and Sons,20/06/2024,Paid Ads,North America,01-Oct,Starter,21/01/2025
+63,Gallagher LLC,15/09/2024,Paid Ads,Asia Pacific,51-200,Starter,
+64,Flowers-Brown,16/08/2024,Outbound Sales,Africa,01-Oct,Starter,
+65,Bates-Briggs,14/10/2025,Organic Search,Africa,01-Oct,Growth,
+66,"Anderson, Hernandez and Dixon",31/03/2025,Paid Ads,North America,51-200,Scale,
+67,Franklin and Sons,08/02/2026,Content Marketing,Asia Pacific,51-200,Growth,08/06/2026
+68,Harvey-Martinez,01/06/2024,Organic Search,Europe,51-200,Starter,16/05/2025
+69,"Holmes, Peters and Mueller",24/02/2024,Content Marketing,Europe,51-200,Starter,
+70,"Brown, Lee and Williams",03/04/2024,Organic Search,Africa,01-Oct,Starter,
+71,Fuentes PLC,05/08/2026,Content Marketing,Europe,500+,Starter,
+72,"Brady, Taylor and Downs",17/06/2026,Outbound Sales,Africa,500+,Growth,
+73,Drake-Thomas,22/01/2025,Organic Search,Asia Pacific,201-500,Starter,
