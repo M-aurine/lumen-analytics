@@ -2,7 +2,8 @@
 SELECT  
     AVG(amount) AS average_payment,
     PERCENTILE_CONT(0.5) WITHIN GROUP(ORDER BY amount) as median_payment
-FROM payments;
+FROM payments
+WHERE payment_status = 'Paid';
 
 -- Findings
 -- The average payment ($218.20) is substantially higher than the median payment ($51.27), suggesting that a relatively small number of unusually large payments are pulling the average upward. This indicates that payment amounts are right-skewed, so the median may better represent a typical payment.
@@ -49,3 +50,7 @@ ORDER BY quartile;
 -- The highest-paying quartile (the top 25% of customers) generates $163,416.04, approximately 69.6% of total lifetime revenue
 -- Therefore, an overall average revenue-per-customer figure could mask the large differences in customer value.
 -- I recommend that Finance report average revenue per customer alongside the median and customer-value quartiles. The average is useful for understanding overall revenue relative to the customer base, but the median and quartile breakdown provide a more representative view of the typical customer and reveal how heavily revenue depends on high-value customers.
+
+SELECT payment_status, COUNT(*), SUM(amount), AVG(amount)
+FROM payments
+GROUP BY payment_status;

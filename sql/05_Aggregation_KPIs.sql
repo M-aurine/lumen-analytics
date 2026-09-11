@@ -31,3 +31,9 @@ FROM customers
 WHERE churn_date IS NULL
 GROUP BY region
 HAVING COUNT(DISTINCT customer_id) > 10;
+
+-- The customer in Europe who has never generated a successful payment
+SELECT c.customer_id, c.company_name, c.region, c.churn_date
+FROM customers c
+LEFT JOIN payments p ON c.customer_id = p.customer_id AND p.payment_status = 'Paid'
+WHERE c.region = 'Europe' AND p.payment_id IS NULL;
