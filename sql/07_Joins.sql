@@ -20,7 +20,7 @@ LEFT JOIN usage_events u
 GROUP BY c.customer_id
 ORDER BY c.customer_id;
 
--- Correct join
+-- Correct joi
 SELECT 
     c.customer_id,
     COALESCE(SUM(p.amount), 0) AS correct_payment_total
@@ -182,3 +182,6 @@ ORDER BY avg_tickets_per_month DESC;
 
 -- Findings
 -- Naive ticket-count comparison suggested churned customers file fewer tickets — but that comparison was confounded by tenure, since churned customers simply have less time to accumulate any. Once normalized to tickets per month of tenure, churned customers show roughly 2x the ticket-filing rate of active customers — consistent with, though not proof of, higher friction preceding churn.
+SELECT payment_status, COUNT(*)
+FROM payments
+GROUP BY payment_status;
