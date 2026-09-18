@@ -54,3 +54,4 @@ ORDER BY quartile;
 SELECT payment_status, COUNT(*), SUM(amount), AVG(amount)
 FROM payments
 GROUP BY payment_status;
+
